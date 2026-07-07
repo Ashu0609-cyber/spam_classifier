@@ -235,7 +235,7 @@ which can later be loaded for inference without retraining.
 **Ashutosh Thakur**
 
 - GitHub: https://github.com/Ashu0609-cyber
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: www.linkedin.com/in/ashutosh-thakur-735673357
 
 ---
 
